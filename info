@@ -1,9 +1,33 @@
 https://www.youtube.com/watch?v=pQoHvx0SoiA
 
 npx create-next-app@latest
-npx shadcn-ui@latest init
+npx shadcn@latest init
 	- Default
 	- Neutral
-npx shadcn-ui@latest add button
+	- yes
+npx shadcn@latest add button
+npx shadcn@latest add dialog
+npx shadcn@latest add input
+npx shadcn@latest add sonner
+npx shadcn@latest add alert-dialog
+
+
+npm install @clerk/nextjs
+
+npm i drizzle-orm @neondatabase/serverless
+npm i -D drizzle-kit
+
+npm i emoji-picker-react
+
+npm i moment
 
 npm run dev
+npm run db:push
+
+npm install recharts
+
+Usefull links
+
+https://logoipsum.com/
+https://www.hyperui.dev
+app.eraser.io/workspace/OnOAzmGwJXOFGRBtKAW5
