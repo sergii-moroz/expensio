@@ -43,6 +43,6 @@ This project is deployed on [Vercel]().
 
 Take a look at some snapshots of the dashboard:
 
-- [./public/Dashboard-1](Dashboard-1)
-- [./public/Dashboard-2](Dashboard-2)
-- [./public/Dashboard-3](Dashboard-3)
+- [Dashboard-1](./public/Dashboard-1)
+- [Dashboard-2](./public/Dashboard-2)
+- [Dashboard-3](./public/Dashboard-3)
