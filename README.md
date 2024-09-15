@@ -3,6 +3,12 @@
 
 This project follows the tutorial from [TubeGuruji on YouTube](https://www.youtube.com/watch?v=pQoHvx0SoiA).
 
+## Built with
+
+- Next.js for the frontend,
+- Tailwind CSS for styling,
+- Dirzzle ORM and Neon for managing Postgresql database.
+
 ## Getting Started
 
 To get the development server running, follow these steps:
@@ -43,6 +49,6 @@ This project is deployed on [Vercel]().
 
 Take a look at some snapshots of the dashboard:
 
-- [Dashboard-1](./public/Dashboard-1)
-- [Dashboard-2](./public/Dashboard-2)
-- [Dashboard-3](./public/Dashboard-3)
+![Dashboard-1](./public/Dashboard-1)
+![Dashboard-2](./public/Dashboard-2)
+![Dashboard-3](./public/Dashboard-3)
